@@ -2,10 +2,10 @@
 <!-- Lavender Navbar Title -->
 <div align="center" style="background: #E6E6FA; padding: 20px 0; border-radius: 10px; box-shadow: 0 2px 8px rgba(230, 230, 250, 0.05); margin-bottom: 20px;">
   <h1 style="color: #6a5acd; font-family: 'Segoe UI', 'Arial', sans-serif; font-size: 2.5em; letter-spacing: 1px; margin: 0;">
-    Namaste 🙏 I am Rudrakshi Singh Rathore
+    Namaste  I am Rudrakshi Singh Rathore
   </h1>
 </div>
-<h3 align="center">A passionate data science and data analyst</h3>
+<h3 align="center">An aspiring data scientist and data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshi-123&label=Profile%20views&color=0e75b6&style=flat" alt="rukshi-123" /> </p>
 
@@ -35,11 +35,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudrakshi singh rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrakshi singh rathore" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rudrakshi-singh-rathore-a97a3716b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rudrakshi-singh-rathore-a97a3716b" height="30" width="40" /></a>
 <a href="https://kaggle.com/rukshirathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rukshirathore" height="30" width="40" /></a>
-<a href="https://instagram.com/rukshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rukshi" height="30" width="40" /></a>
+<a href="https://instagram.com/rudrakshi_singh_rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudrakshi_singh_rathore" height="30" width="40" /></a>
 <a href="https://medium.com/@rukshirathore77777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rukshirathore77777" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rudrakshi_singh_rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rudrakshi_singh_rathore" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@rukshirathore1563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rukshirathore1563" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rukshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rukshi" height="30" width="40" /></a>
 </p>
 
@@ -51,18 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukshi-123&show_icons=true&locale=en" alt="rukshi-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukshi-123&" alt="rukshi-123" /></p>
-
-<!--
-**rukshi-123/rukshi-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
