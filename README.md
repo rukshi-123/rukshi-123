@@ -5,7 +5,7 @@
     Namaste  I am Rudrakshi Singh Rathore
   </h1>
 </div>
-<h3 align="center">An aspiring data scientist and data analyst</h3>
+<h3 align="center">An Aspiring Data Scientist and Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshi-123&label=Profile%20views&color=0e75b6&style=flat" alt="rukshi-123" /> </p>
 
