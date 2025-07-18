@@ -2,7 +2,10 @@
 <!-- Lavender Navbar Title -->
 <div align="center" style="background: #E6E6FA; padding: 20px 0; border-radius: 10px; box-shadow: 0 2px 8px rgba(230, 230, 250, 0.05); margin-bottom: 20px;">
   <h1 style="color: #6a5acd; font-family: 'Segoe UI', 'Arial', sans-serif; font-size: 2.5em; letter-spacing: 1px; margin: 0;">
-    Namaste  I am Rudrakshi Singh Rathore
+    <p align="center">
+  <img src="https://your-image-url.com/lavender-banner.png" alt="Namaste I am Rudrakshi Singh Rathore"/>
+</p>
+@@    Namaste I am Rudrakshi Singh Rathore   @@
   </h1>
 </div>
 <h3 align="center">An Aspiring Data Scientist and Data Analyst</h3>
