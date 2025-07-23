@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **hand gesture controlled piano opencv**
 
-- 👨‍💻 All of my projects are available at [rudrakshi_portfolio](rudrakshi_portfolio)
+- 👨‍💻 All of my projects are available at [rudrakshi_portfolio](https://rudrakshi-singh-rathore-fri87ck.gamma.site/)
 
 - 📫 How to reach me **rukshirathore77777@gmail.com**
 
